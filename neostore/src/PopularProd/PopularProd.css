@@ -1,0 +1,30 @@
+.thumbnail {
+    display: block;
+    padding: 4px;
+    margin-bottom: 20px;
+    line-height: 1.42857143;
+    background-color: #fff;
+    border: 1px solid #ddd;
+    border-radius: 4px;
+    transition: border .2s ease-in-out;
+}
+.thumbnail .img-thumb {
+    height: 140px;
+    width: 100%;
+    position: relative;
+    margin: 0 auto;
+}
+.thumbnail .img-thumb .img-responsive {
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    top: 0;
+    margin: auto;
+    max-height: 100%;
+    max-width: 100%;
+}
+.popularProducts .rating .fa {
+    color:#f79daa;
+    font-size: 20px;
+}
