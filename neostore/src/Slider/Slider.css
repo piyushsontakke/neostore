@@ -24,7 +24,7 @@
 }
 .owl-carousel .owl-dots {
     position: absolute;
-    bottom: 35px;
+    bottom: 25px;
     transform: translateY(-50%);
     left: 0;
     right: 0;
